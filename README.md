@@ -11,7 +11,12 @@ This project aims to empower business owners with crucial insights for informed 
 - Generate and email bills to customers.
 - Scan barcodes using the device's camera.
 - Manage inventory: add, view, update, and delete products.
+
+  
+  <img src="https://github.com/ArunAK111/EFFIBIZ/blob/main/Images/7.png" width="400" height="200" />
 - Access product statistics and business analysis for informed decisions.
+
+  <img src="https://github.com/ArunAK111/EFFIBIZ/blob/main/Images/3.png" width="400" height="200" />
 
 ---
 
