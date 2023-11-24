@@ -1,4 +1,4 @@
-# EFFIBIZ
+# EFFIBIZ   -  Arun, Anurag and Aryansh
 
 
 <img src="https://github.com/ArunAK111/EFFIBIZ/blob/main/Images/8.png" width="600" height="300" />
