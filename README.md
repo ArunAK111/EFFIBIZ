@@ -1,6 +1,6 @@
 # EFFIBIZ
 
-![](Images.8.png)
+![8](https://github.com/ArunAK111/EFFIBIZ/assets/117448626/98a15685-c5e7-4bd1-ade9-69ca9d20413d)
 
 ## Introduction
 This project aims to empower business owners with crucial insights for informed decision-making, fostering a robust revenue stream while maintaining accurate records.
