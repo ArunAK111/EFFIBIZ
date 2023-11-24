@@ -1,6 +1,8 @@
 # EFFIBIZ
 
-![8](https://github.com/ArunAK111/EFFIBIZ/assets/117448626/98a15685-c5e7-4bd1-ade9-69ca9d20413d)
+
+<img src="https://github.com/ArunAK111/EFFIBIZ/blob/main/Images/8.png" width="600" height="300" />
+
 
 ## Introduction
 This project aims to empower business owners with crucial insights for informed decision-making, fostering a robust revenue stream while maintaining accurate records.
@@ -38,16 +40,11 @@ Gain insights by:
 ---
 
 ## Setting Up the Database
-1. **Download and install XAMPP** in the default directory.
+1. **Download and install XAMPP**.
 2. Start **Apache and MySQL services** in XAMPP.
-   ![XAMPP Services](https://user-images.githubusercontent.com/101919460/177002963-a72068a3-9b37-4d1e-a549-3708b3524ae8.png)
 3. Access [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/).
 4. **Create a new database** named **_pbl_**.
 5. **Import the file** [import_me.sql](https://github.com/sukhmani1303/Billing-and-Business-Management/blob/main/db/import_me.sql) into the **_pbl_** database.
 
 ---
 
-## Additional Information
-This README provides insights into a comprehensive business management solution, offering functionalities for billing, inventory, analysis, and more.
-
-For detailed instructions on installation, usage, and code functionality, refer to the project documentation or specific sections within the repository.
