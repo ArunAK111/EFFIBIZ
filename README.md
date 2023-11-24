@@ -1,6 +1,6 @@
 # EFFIBIZ
 
-![Business Management](https://user-images.githubusercontent.com/101919460/177272881-aa92c71e-8272-4d7a-86f2-391f99f3a878.png)
+![Business Management](images/8.png)
 
 ## Introduction
 This project aims to empower business owners with crucial insights for informed decision-making, fostering a robust revenue stream while maintaining accurate records.
