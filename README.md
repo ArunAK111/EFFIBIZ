@@ -1,6 +1,6 @@
 # EFFIBIZ
 
-![Business Management](images/8.png)
+![](Images.8.png)
 
 ## Introduction
 This project aims to empower business owners with crucial insights for informed decision-making, fostering a robust revenue stream while maintaining accurate records.
