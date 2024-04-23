@@ -1,7 +1,7 @@
 # EFFIBIZ   -  Billing Automation
 
 
-<><img src="https://github.com/ArunAK111/EFFIBIZ/blob/main/Images/8.png" width="600" height="300" />
+<!--   img src="https://github.com/ArunAK111/EFFIBIZ/blob/main/Images/8.png" width="600" height="300" /-->
 
 
 ## Introduction
